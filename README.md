@@ -1,7 +1,7 @@
 # Portfolio
  Projetos que serão adicionados ao meu portfólio.
 
- ![previw](../Portfolio/Rocketeer/assets/img/printscreen.png)
+ ![previw](/assets/img/printscreen.png)
 
 > Rocketeer
 
